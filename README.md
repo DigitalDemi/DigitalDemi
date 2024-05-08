@@ -36,12 +36,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="c logo"  />
 </div>
 
-###
-
-<img align="right" height="150" src="https://github.com/DigitalDemi/DigitalDemi.github.io/blob/main/public/4b5022936cb6f16579dfd1e5fffb649b.jpg?raw=true"  />
-
-###
-
 <!--
 **DigitalDemi/DigitalDemi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
